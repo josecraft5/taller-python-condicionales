@@ -1,4 +1,4 @@
-# Saludo formateado
+#Ejercicio 1 Saludo formateado
 nombre = str(input("Cual es tu nombre?: "))
 edad = int(input("Cuantos años tienes?: "))
 ciudad = str(input("De donde eres?: "))

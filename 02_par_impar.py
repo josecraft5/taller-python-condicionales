@@ -1,3 +1,4 @@
+#Ejercicio 2 Par Impar
 numero = int(input("Dime un numero entero: "))
 edad = int(input("Dime tu edad: "))
 
