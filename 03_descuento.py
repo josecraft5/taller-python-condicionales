@@ -1,6 +1,6 @@
 #Ejercicio 3 Descuento
 subtotal = float(input("De cuanto es tu subtotal?: "))
-tipo_cliente = input("Que cliente eres? (VIP) o (Regular)?: ")
+tipo_cliente = input("Que cliente eres? (VIP) o (Regular)?: ").lower()
 
 if tipo_cliente == "vip":
     descuento_numero= subtotal*0.15
